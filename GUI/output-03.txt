@@ -1,0 +1,29 @@
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 361.16, Memory (MB): 3.9
+drRurDDlllLLulDBFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 367.15, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 353.35, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 357.7, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 340.48, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 324.7, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 341.88, Memory (MB): 3.9
+drRurDDlllLLulD
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 362.64, Memory (MB): 3.94
+drRurDDlllLLulD
+DFS
+Steps: 61, Weight: 14, Nodes: 215, Time (ms): 1.53, Memory (MB): 0.02
+rrrdLrddlllllluurrrurDrrddlllllluurrDrRRllllluurrrrrrdDllldLL
+BFS
+Steps: 15, Weight: 15, Nodes: 7172, Time (ms): 404.09, Memory (MB): 3.9
+drRurDDlllLLulD

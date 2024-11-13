@@ -1,0 +1,12 @@
+BFS
+Steps: 41, Weight: 48, Nodes: 1559, Time (ms): 81.38, Memory (MB): 0.49
+urrDDDlddrUUUUruLLLdRurDDDlddrUUUUlllluRR
+BFS
+Steps: 41, Weight: 48, Nodes: 1559, Time (ms): 59.43, Memory (MB): 0.49
+urrDDDlddrUUUUruLLLdRurDDDlddrUUUUlllluRR
+BFS
+Steps: 41, Weight: 48, Nodes: 1559, Time (ms): 75.0, Memory (MB): 0.49
+urrDDDlddrUUUUruLLLdRurDDDlddrUUUUlllluRR
+BFS
+Steps: 41, Weight: 48, Nodes: 1559, Time (ms): 58.6, Memory (MB): 0.49
+urrDDDlddrUUUUruLLLdRurDDDlddrUUUUlllluRR

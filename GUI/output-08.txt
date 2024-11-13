@@ -1,0 +1,12 @@
+BFS
+Steps: 83, Weight: 220, Nodes: 12305, Time (ms): 469.49, Memory (MB): 3.98
+rrruuulldRRddlllluuRRRurDDullllddrrrRRRdrruLLLLLLrruuurrdLulDDulllldddrrurRlldlluRR
+BFS
+Steps: 83, Weight: 220, Nodes: 12305, Time (ms): 472.13, Memory (MB): 3.98
+rrruuulldRRddlllluuRRRurDDullllddrrrRRRdrruLLLLLLrruuurrdLulDDulllldddrrurRlldlluRR
+BFS
+Steps: 83, Weight: 220, Nodes: 12305, Time (ms): 517.18, Memory (MB): 3.98
+rrruuulldRRddlllluuRRRurDDullllddrrrRRRdrruLLLLLLrruuurrdLulDDulllldddrrurRlldlluRR
+BFS
+Steps: 83, Weight: 220, Nodes: 12305, Time (ms): 497.45, Memory (MB): 4.01
+rrruuulldRRddlllluuRRRurDDullllddrrrRRRdrruLLLLLLrruuurrdLulDDulllldddrrurRlldlluRR

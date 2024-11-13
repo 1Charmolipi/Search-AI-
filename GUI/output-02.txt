@@ -1,0 +1,74 @@
+DFS
+Steps: 144, Weight: 70, Nodes: 1920, Time (ms): 22.39, Memory (MB): 0.3
+rrddllllluuRRRRllllddrrrUrrddllllluururRurrDLrDlllllddrrrrrUllllluurrRurDrDLrDllllluurrrDrruulllllddrdrRdrUUruLLrrddllllluururDrdLrrruulllldDrdLBFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 352.45, Memory (MB): 3.65
+lLulDDrrRRurDD
+A*
+Steps: 14, Weight: 22, Nodes: 26901, Time (ms): 6966.28, Memory (MB): 5.86
+lLulDDrrRRurDD
+DFS
+Steps: 144, Weight: 70, Nodes: 1920, Time (ms): 25.02, Memory (MB): 0.32
+rrddllllluuRRRRllllddrrrUrrddllllluururRurrDLrDlllllddrrrrrUllllluurrRurDrDLrDllllluurrrDrruulllllddrdrRdrUUruLLrrddllllluururDrdLrrruulllldDrdL
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 362.5, Memory (MB): 3.77
+lLulDDrrRRurDD
+UCS
+Steps: 14, Weight: 22, Nodes: 42195, Time (ms): 11944.55, Memory (MB): 8.09
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 362.73, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 413.24, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 385.06, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 359.62, Memory (MB): 3.65
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 349.7, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 353.82, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 336.76, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 324.56, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 361.37, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 347.33, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 314.68, Memory (MB): 3.65
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 347.63, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 341.68, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 355.98, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 355.99, Memory (MB): 3.66
+lLulDDrrRRurDD
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 359.9, Memory (MB): 3.66
+lLulDDrrRRurDD
+DFS
+Steps: 144, Weight: 70, Nodes: 1920, Time (ms): 23.04, Memory (MB): 0.3
+rrddllllluuRRRRllllddrrrUrrddllllluururRurrDLrDlllllddrrrrrUllllluurrRurDrDLrDllllluurrrDrruulllllddrdrRdrUUruLLrrddllllluururDrdLrrruulllldDrdL
+DFS
+Steps: 144, Weight: 70, Nodes: 1920, Time (ms): 13.45, Memory (MB): 0.3
+rrddllllluuRRRRllllddrrrUrrddllllluururRurrDLrDlllllddrrrrrUllllluurrRurDrDLrDllllluurrrDrruulllllddrdrRdrUUruLLrrddllllluururDrdLrrruulllldDrdL
+BFS
+Steps: 14, Weight: 22, Nodes: 7108, Time (ms): 405.67, Memory (MB): 3.66
+lLulDDrrRRurDD
